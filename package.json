@@ -1,0 +1,21 @@
+{
+  "name": "_redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@log4js-node/logstash-http": "^1.0.0",
+    "log4js": "^6.3.0",
+    "logstash": "^3.0.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
